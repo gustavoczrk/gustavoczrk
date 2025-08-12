@@ -2,8 +2,9 @@
 
 🎓 Estudante de Ciência da Computação (6º semestre)  
 🌍 Experiência internacional no Canadá – Business Communication  
-💻 Interesse em desenvolvimento web, ciência de dados e TI corporativa  
+💻 Interesse em desenvolvimento web, ciência de dados, infraestrutura e redes 
 📚 Em constante aprendizado de JavaScript, Node.js, MySQL e metodologias ágeis
+
 
 ---
 
@@ -17,11 +18,13 @@
 ---
 
 ## 📁 Meus Projetos
-- 🔸 [Legado de Heróis – Plataforma de HQs](https://github.com/seu-usuario/legado-de-herois)  
+- 🔸 [Legado de Heróis – Plataforma de HQs](https://github.com/gustavoczrk/legado-de-herois)  
   Sistema web com login, leitura de quadrinhos, comentários e avaliações  
   Tecnologias: Node.js, Express, MySQL, HTML/CSS/JS
 
-*(mais projetos em breve!)*
+ [Villeneuve Pizzeria – Site de pedidos online](https://github.com/gustavoczrk/Villeuneve_Pizzeria)  
+  Sistema de pedidos online com página inical, cadastro, cardápio e painel de administrados para gerenciar pedidos.
+  Tecnologias: Node.js, Express, MySQL, HTML/CSS/JS
 
 ---
 
