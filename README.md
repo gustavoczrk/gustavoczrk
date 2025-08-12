@@ -22,7 +22,7 @@
   Sistema web com login, leitura de quadrinhos, comentários e avaliações  
   Tecnologias: Node.js, Express, MySQL, HTML/CSS/JS
 
- [Villeneuve Pizzeria – Site de pedidos online](https://github.com/gustavoczrk/Villeuneve_Pizzeria)  
+ - 🔸 [Villeneuve Pizzeria – Site de pedidos online](https://github.com/gustavoczrk/Villeuneve_Pizzeria)  
   Sistema de pedidos online com página inical, cadastro, cardápio e painel de administrados para gerenciar pedidos.
   Tecnologias: Node.js, Express, MySQL, HTML/CSS/JS
 
