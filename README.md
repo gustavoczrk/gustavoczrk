@@ -26,12 +26,12 @@ Sou um desenvolvedor em formação focado em **Full Stack Web Development** e so
 
 #### 💻 Desenvolvimento Web (Full Stack)
 
-**[🤝 Sala Solidária (Acesse o Repositório)](https://github.com/gustavoczrk/sala-solidaria)**
+**[🤝 Sala Solidária (Acesse o Repositório)](https://github.com/gustavoczrk/sala-solidaria-app)**
 > *Aplicação SPA de impacto social para conectar doadores a instituições.*
 - **Tech:** React.js, Firebase (Firestore & Auth), Context API.
 - **Destaque:** Autenticação de usuários, Banco de dados em tempo real e Interface Responsiva.
 
-**[🍕 Villeneuve Pizzeria (Acesse o Repositório)](https://github.com/gustavoczrk/villeneuve-pizzeria)**
+**[🍕 Villeneuve Pizzeria (Acesse o Repositório)](https://github.com/gustavoczrk/Villeuneve_Pizzeria)**
 > *Sistema completo de e-commerce para delivery.*
 - **Tech:** Node.js, Express, MySQL, HTML/CSS.
 - **Destaque:** Sistema de login, Carrinho de compras e Painel Administrativo.
